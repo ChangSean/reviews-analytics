@@ -1,2 +1,2 @@
-"# reviews-analytics" 
-"# reviews-analytics" 
+# 讀取資料並印出有多少筆資料
+# 計算每筆資料的平均長度
